@@ -1,4 +1,5 @@
 set nocompatible
+set title
 set bs=2
 set ts=4
 set number
