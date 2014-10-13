@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+VIM_CONFIG_DIR=$(cd `dirname ${BASH_SOURCE[0]}`; pwd)
+
+[ ! -L ~/.vimrc ] && ln -s $VIM_CONFIG_DIR/vimrc ~/.vimrc
