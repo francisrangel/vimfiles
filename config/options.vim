@@ -7,3 +7,4 @@ set ts=4
 set number
 set ruler
 set background=dark
+set ignorecase
