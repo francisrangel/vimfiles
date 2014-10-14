@@ -1,5 +1,5 @@
-source ~/.vim/config/plugins.vim
-source ~/.vim/config/options.vim
-source ~/.vim/config/airline.vim
-source ~/.vim/config/ctrlp.vim
-source ~/.vim/config/keymap.vim
+source $HOME/.vim/config/plugins.vim
+source $HOME/.vim/config/options.vim
+source $HOME/.vim/config/airline.vim
+source $HOME/.vim/config/ctrlp.vim
+source $HOME/.vim/config/keymap.vim
