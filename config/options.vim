@@ -8,3 +8,4 @@ set number
 set ruler
 set background=dark
 set ignorecase
+set wildmenu
