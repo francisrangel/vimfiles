@@ -9,6 +9,3 @@ noremap <S-k> <C-w>k
 noremap ¡ :NERDTreeToggle<Return>
 
 nnoremap <Return> :set hlsearch!<Return>
-
-inoremap <Tab> <C-n>
-inoremap <S-Tab> <C-p>
