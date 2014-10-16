@@ -9,3 +9,5 @@ set ruler
 set background=dark
 set ignorecase
 set wildmenu
+set incsearch
+set hlsearch
