@@ -15,8 +15,12 @@ noremap <C-w>l :belowright vnew<CR>
 noremap <F4> :NERDTreeToggle<CR>
 
 nnoremap <C-l> :nohlsearch<CR><C-l>
-nnoremap <leader>i :set incsearch!<CR>
-nnoremap <leader>h :set hlsearch!<CR>
+nnoremap <Leader>i :set incsearch!<CR>
+nnoremap <Leader>h :set hlsearch!<CR>
+
+noremap <Leader><Leader>2 :call SetUseSpaces(2)<CR>
+noremap <Leader><Leader>4 :call SetUseSpaces(4)<CR>
+noremap <Leader><Leader><Tab> :call SetUseSpaces(4)<CR>:set noexpandtab<CR>
 
 autocmd InsertEnter * :setlocal nohlsearch
 autocmd InsertLeave * :setlocal hlsearch
