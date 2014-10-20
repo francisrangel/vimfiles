@@ -7,6 +7,10 @@ noremap <S-h> <C-w><C-h>
 noremap <S-l> <C-w><C-l>
 noremap <S-j> <C-w><C-j>
 noremap <S-k> <C-w><C-k>
+noremap <C-w>h :aboveleft vnew<CR>
+noremap <C-w>j :belowright new<CR>
+noremap <C-w>k :aboveleft new<CR>
+noremap <C-w>l :belowright vnew<CR>
 
 noremap <F4> :NERDTreeToggle<CR>
 
