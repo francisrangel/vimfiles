@@ -21,6 +21,3 @@ nnoremap <Leader>h :set hlsearch!<CR>
 noremap <Leader><Leader>2 :call SetUseSpaces(2)<CR>
 noremap <Leader><Leader>4 :call SetUseSpaces(4)<CR>
 noremap <Leader><Leader><Tab> :call SetUseSpaces(4)<CR>:set noexpandtab<CR>
-
-autocmd InsertEnter * :setlocal nohlsearch
-autocmd InsertLeave * :setlocal hlsearch
