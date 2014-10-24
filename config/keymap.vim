@@ -1,12 +1,8 @@
-noremap <Up> <Nop>
-noremap <Down> <Nop>
-noremap <Left> <Nop>
-noremap <Right> <Nop>
+noremap <Left> <C-w><C-h>
+noremap <Right> <C-w><C-l>
+noremap <Down> <C-w><C-j>
+noremap <Up> <C-w><C-k>
 
-noremap <S-h> <C-w><C-h>
-noremap <S-l> <C-w><C-l>
-noremap <S-j> <C-w><C-j>
-noremap <S-k> <C-w><C-k>
 noremap <C-w>h :aboveleft vnew<CR>
 noremap <C-w>j :belowright new<CR>
 noremap <C-w>k :aboveleft new<CR>
