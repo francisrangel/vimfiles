@@ -14,6 +14,7 @@ noremap <C-w>j :belowright new<CR>
 noremap <C-w>k :aboveleft new<CR>
 noremap <C-w>l :belowright vnew<CR>
 noremap <F4> :NERDTreeToggle<CR>
+noremap <Leader>y "+y
 
 nnoremap <C-l> :nohlsearch<CR><C-l>
 nnoremap <Leader>i :set incsearch!<CR>
