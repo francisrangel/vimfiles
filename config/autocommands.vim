@@ -6,4 +6,6 @@ augroup tab_per_filetype
 		autocmd FileType javascript setlocal ts=2 shiftwidth=2 expandtab
 		autocmd FileType html 		setlocal ts=2 shiftwidth=2 expandtab
 		autocmd FileType less 		setlocal ts=2 shiftwidth=2 expandtab
+		autocmd FileType ruby 		setlocal ts=2 shiftwidth=2 expandtab
+		autocmd FileType eruby 		setlocal ts=2 shiftwidth=2 expandtab
 augroup END
