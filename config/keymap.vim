@@ -9,6 +9,7 @@ noremap <Leader><Leader>2 :call SetUseSpaces(2)<CR>
 noremap <Leader><Leader>4 :call SetUseSpaces(4)<CR>
 noremap <Leader><Leader><Tab> :call SetUseSpaces(4)<CR>:set noexpandtab<CR>
 noremap <Leader>b :CtrlPBuffer<CR>
+noremap <Leader>t :CtrlPTag<CR>
 noremap <C-w>h :aboveleft vnew<CR>
 noremap <C-w>j :belowright new<CR>
 noremap <C-w>k :aboveleft new<CR>
