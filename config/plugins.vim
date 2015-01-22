@@ -7,7 +7,10 @@ Plug 'https://github.com/kien/ctrlp.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'ervandew/supertab'
 Plug 'mileszs/ack.vim'
-Plug 'groenewege/vim-less', { 'on': 'Less', 'for': 'less' }
-Plug 'elzr/vim-json', { 'on': 'JSON', 'for': 'json' }
+Plug 'groenewege/vim-less', { 'for': 'less' }
+Plug 'elzr/vim-json', { 'for': 'json' }
+Plug 'guns/vim-clojure-static', { 'for': 'clojure' }
+Plug 'jpalardy/vim-slime', { 'for': 'clojure' }
+Plug 'kien/rainbow_parentheses.vim', { 'for': 'clojure' }
 
 call plug#end()
