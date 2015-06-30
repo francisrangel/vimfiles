@@ -1,4 +1,4 @@
-colorscheme solarized
+colorscheme darcula
 set t_Co=256
 set nocompatible
 set title
