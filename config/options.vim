@@ -8,6 +8,7 @@ set number
 set ruler
 set background=dark
 set ignorecase
+set wildmode=longest,list
 set wildmenu
 set incsearch
 set hlsearch
