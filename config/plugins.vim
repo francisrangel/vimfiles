@@ -14,5 +14,7 @@ Plug 'jpalardy/vim-slime', { 'for': 'clojure' }
 Plug 'kien/rainbow_parentheses.vim', { 'for': 'clojure' }
 Plug 'vim-scripts/groovy.vim', { 'for': 'groovy' }
 Plug 'tfnico/vim-gradle', { 'for': 'gradle' }
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
 
 call plug#end()

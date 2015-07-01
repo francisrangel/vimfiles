@@ -6,3 +6,4 @@ source $HOME/.vim/config/keymap.vim
 source $HOME/.vim/config/autocommands.vim
 source $HOME/.vim/config/functions.vim
 source $HOME/.vim/config/supertab.vim
+source $HOME/.vim/config/ultisnip.vim
