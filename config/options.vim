@@ -1,4 +1,4 @@
-colorscheme darcula
+colorscheme gruvbox
 set t_Co=256
 set nocompatible
 set title
