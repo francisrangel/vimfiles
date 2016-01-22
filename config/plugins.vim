@@ -17,5 +17,7 @@ Plug 'vim-scripts/groovy.vim', { 'for': 'groovy' }
 Plug 'tfnico/vim-gradle', { 'for': 'gradle' }
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'cakebaker/scss-syntax.vim', { 'for': 'scss' }
+Plug 'mustache/vim-mustache-handlebars', { 'for': 'html.handlebars' }
 
 call plug#end()

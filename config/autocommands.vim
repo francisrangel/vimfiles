@@ -8,5 +8,6 @@ augroup tab_per_filetype
 		autocmd FileType less 		setlocal ts=2 shiftwidth=2 expandtab
 		autocmd FileType ruby 		setlocal ts=2 shiftwidth=2 expandtab
 		autocmd FileType eruby 		setlocal ts=2 shiftwidth=2 expandtab
+		autocmd FileType scss 		setlocal ts=2 shiftwidth=2 expandtab
 		autocmd FileType clojure 	RainbowParenthesesToggle
 augroup END
